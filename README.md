@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hi there, I'm [Hruday]! 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,r)](https://skillicons.dev)
 
 ## 🚀 About Me
 - 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
