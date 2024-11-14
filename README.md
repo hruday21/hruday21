@@ -16,16 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm [Your Name]! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+# Hi there, I'm [Hruday]! 👋
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
 - 🌱 I’m learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: poreddyhruday2100@gmail.com
-- ⚡ Fun fact: I ...
+- 📫 Feel free to reach me out poreddyhruday2100@gmail.com
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
