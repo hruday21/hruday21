@@ -17,13 +17,18 @@ Here are some ideas to get you started:
 
 
 # Hi there, I'm [Hruday]! 👋
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
+
+<!-- Example: LinkedIn icon -->
+<a href="www.linkedin.com/in/hruday-poreddy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql">
+</a>
 
 ## 🚀 About Me
 - 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
 - 🌱 I’m learning ...
 - 💬 Ask me about ...
-- 📫 Feel free to reach me out poreddyhruday2100@gmail.com
+- 📫 Feel free to reach me via 
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
