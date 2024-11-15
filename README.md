@@ -19,13 +19,8 @@ Here are some ideas to get you started:
 # Hi there, I'm [Hruday]! 👋
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
-[![Alt Text]([image_url](https://skillicons.dev/icons?i=mysql))](link_url)
+[![💬 Let's connect! Find me on ]([image_url](https://skillicons.dev/icons?i=mysql))]([link_url](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199))
 
-
-<!-- Example: LinkedIn icon -->
-<a href="https://www.linkedin.com/in/hruday-poreddy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql">
-</a>
 
 ## 🚀 About Me
 - 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
