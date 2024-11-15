@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 # Hi there, I'm [Hruday]! 👋
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
+[![Alt Text]([image_url](https://skillicons.dev/icons?i=mysql))](link_url)
+
+
 <!-- Example: LinkedIn icon -->
 <a href="www.linkedin.com/in/hruday-poreddy" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql">
