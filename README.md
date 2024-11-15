@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-#### Hi there, I'm Hruday! 👋
+# Hi there, I'm Hruday! 👋
 
 ## 🚀 About Me
 
-## I am a Data Analyst with a Master’s in Data Science from the University at Buffalo, class of 2024. I’m excited to bring my expertise in SQL, Python, and Tableau to new challenges and opportunities. Let’s connect to discuss how I can add value to your team and help drive impactful data-driven insights.
+### I am a Data Analyst with a Master’s in Data Science from the University at Buffalo, class of 2024. I’m excited to bring my expertise in SQL, Python, and Tableau to new challenges and opportunities. Let’s connect to discuss how I can add value to your team and help drive impactful data-driven insights.
 
 ## Technologies I know  
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
