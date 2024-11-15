@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hruday21/hruday21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there, I'm [Hruday]! 👋
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
-[![💬 Let's connect!](https://skillicons.dev/icons?i=mysql)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199)
+[![💬 Let's connect!](https://skillicons.dev/icons?i=angular)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199)
 
 [![HELLOOOO](https://skillicons.dev/icons?i=mysql)](https://github.com](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199))
 
