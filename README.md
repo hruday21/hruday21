@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi there, I'm [Hruday]! 👋
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
-[![💬 Let's connect! Find me on ]([image_url](https://skillicons.dev/icons?i=mysql))]([link_url](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199))
+[![💬 Let's connect! Find me on ]([image_url](https://skillicons.dev/icons?i=mysql))](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199))
 
 
 ## 🚀 About Me
