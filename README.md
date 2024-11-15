@@ -24,7 +24,7 @@ I am a Data Analyst with a Master’s in Data Science from the University at Buf
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
 
-🔗 Connect with Me 
+🔗 Connect with Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199) 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:poreddyhruday2100@gmail.com)
 
