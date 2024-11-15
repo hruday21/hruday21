@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm [Hruday]! 👋
 
-Technologies I know  
+## Technologies I know  
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
 
