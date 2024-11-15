@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 # Hi there, I'm [Hruday]! 👋
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199)
-
 [![HELLOOOO](https://skillicons.dev/icons?i=mysql)](https://github.com](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199))
 
 
@@ -27,7 +25,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
 - 🌱 I’m learning ...
 - 💬 Ask me about ...
-- 📫 Feel free to reach me via 
+- 📫 Feel free to reach me via
+- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199) 
+[![LinkedIn](https://skillicons.dev/icons?i=gmail)](mailto:poreddyhruday2100@gmail.com)
+
+
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
