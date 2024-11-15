@@ -25,7 +25,7 @@ Technologies I know
 - 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
 - 🌱 I’m learning ...
 - 💬 Ask me about ...
-- 📫 Feel free to reach me via
+- 📫 Feel free to reach me via  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199) 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:poreddyhruday2100@gmail.com)
 
