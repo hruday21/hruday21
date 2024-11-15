@@ -16,29 +16,16 @@ Here are some ideas to get you started:
 
 # Hi there, I'm [Hruday]! 👋
 
+## 🚀 About Me
+
+I am a Data Analyst with a Master’s in Data Science from the University at Buffalo, class of 2024. I’m excited to bring my expertise in SQL, Python, and Tableau to new challenges and opportunities. Let’s connect to discuss how I can add value to your team and help drive impactful data-driven insights.
+
 ## Technologies I know  
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,r,github,aws,anaconda)](https://skillicons.dev)
 
 
-
-## 🚀 About Me
-- 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
-- 🌱 I’m learning ...
-- 💬 Ask me about ...
-- 📫 Feel free to reach me via  
+🔗 Connect with Me 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199) 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:poreddyhruday2100@gmail.com)
 
-
-
-## 🛠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-<!-- Add other badges as needed -->
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
