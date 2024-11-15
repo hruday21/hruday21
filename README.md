@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <!-- Example: LinkedIn icon -->
-<a href="www.linkedin.com/in/hruday-poreddy" target="_blank">
+<a href="https://www.linkedin.com/in/hruday-poreddy" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql">
 </a>
 
