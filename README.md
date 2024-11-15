@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 🌱 I’m learning ...
 - 💬 Ask me about ...
 - 📫 Feel free to reach me via
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199) 
-[![LinkedIn](https://skillicons.dev/icons?i=gmail)](mailto:poreddyhruday2100@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:poreddyhruday2100@gmail.com)
 
 
 
