@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [![💬 Let's connect! Find me on]
 (https://skillicons.dev/icons?i=mysql)](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199)
 
+[![HELLOOOO](https://skillicons.dev/icons?i=mysql)](https://github.com](https://www.linkedin.com/in/hruday-kumar-reddy-poreddy-81b793199))
+
+
 
 ## 🚀 About Me
 - 🔭 I’m currently pursuing Master's in Data Science from the University at Buffalo
